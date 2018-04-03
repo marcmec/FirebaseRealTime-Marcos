@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "868129852050",
+    "firebase_url": "https://testandotudo-b6351.firebaseio.com",
+    "project_id": "testandotudo-b6351",
+    "storage_bucket": "testandotudo-b6351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868129852050:android:43e234022a9e6210",
+        "android_client_info": {
+          "package_name": "marcos.firebaserealtimeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868129852050-lilh3sqvifugr0lqjjpdmdk74b9q79m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWKMErctGEGmYqlGOYX0SYeBkIjffG8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
